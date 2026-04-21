@@ -1,4 +1,24 @@
-pandas
+# Manipulation de données
 numpy
+pandas
+
+# Visualisation
 matplotlib
 seaborn
+
+# Machine Learning
+scikit-learn
+scipy
+joblib
+
+# Notebooks
+jupyter
+ipykernel
+
+# Web app (Flask)
+flask
+gunicorn
+
+# Utilitaires
+python-dateutil
+tqdm
